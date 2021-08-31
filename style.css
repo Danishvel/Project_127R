@@ -1,0 +1,38 @@
+.Heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 25px;
+    background-color: darkblue;
+    color: wheat;
+}
+.NOTE{
+    font-size: 15px;
+    color: lightgoldenrodyellow;
+}
+body{
+    background-size: cover;
+}
+.Hed_Speed{
+    float: left;
+    margin-left: 50px;
+}
+.S_disk,.V_disk{
+    width: 200px;
+    border-radius: 100px;
+}
+#Speed,#Volume{
+    font-size: 20px;
+}
+.Hed_Volume{
+    float: right;
+    margin-right: 50px;
+}
+.Play{
+    font-size: 20px;
+    margin-top: 30px;
+}
+canvas{
+    border-radius: 10px;
+    border: 5px double blue;
+    border-width: 10px;
+}
